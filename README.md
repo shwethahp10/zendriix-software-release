@@ -1,1 +1,1 @@
-# zendriix-software-release
+Initial development code
